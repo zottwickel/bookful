@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    float: left;
+    height: 200px;
+    width: auto;
+}
+
+.bookItem {
+    clear: both;
+    border-top: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.description {
+    float: right;
+}
